@@ -11,7 +11,7 @@ body{
 	font-size:2vw;
 	padding:10px;
 	text-align:left;
-	color: blue;
+	
 	image-rendering: auto;
 }
 p{
@@ -55,6 +55,7 @@ t{
 }
 
 /* demo контейнер */
+
 
 
 
