@@ -3,7 +3,7 @@ h1{
 }
 
 body{
-
+	color: green;
     background:url('ss.jpg') ;
     background-size:cover;
     background-repeat:no-repeat;
@@ -55,6 +55,7 @@ t{
 }
 
 /* demo контейнер */
+
 
 
 
